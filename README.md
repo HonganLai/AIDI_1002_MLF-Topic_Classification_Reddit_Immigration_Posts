@@ -6,11 +6,21 @@
 
 This project analyzes Reddit discussions on Canadian immigration to detect topic shifts before and after a major policy reform on **May 31, 2023**.
 
-## 📌 Project Overview
+## Project Overview
 
 We built a **text classification pipeline** to categorize Reddit posts into immigration-related topics using both traditional machine learning and transformer models. Our main goal was to identify whether discussions on **Express Entry** increased after a new category-based invitation system was introduced.
 
-## 🧱 Project Steps
+## Data Disclaimer
+
+The `/data/` directory is intentionally excluded from this repository due to size and privacy considerations.
+
+All Jupyter notebooks are provided and demonstrate the full data processing and model training pipeline. To reproduce results:
+- Use your own Reddit dataset in the same structure (title, body, date)
+- Follow steps in `1_Data_Cleaning.ipynb` to preprocess
+
+> For educational or academic access to our dataset, please contact us.
+
+## Project Steps
 
 ### 1. Data Collection
 
