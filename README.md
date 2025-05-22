@@ -1,7 +1,3 @@
-你可以用以下结构来编写你的 GitHub 项目 `README.md`，完整覆盖你们团队在 AIDI1003 项目中所做的 Reddit 加拿大移民文本分类研究。以下是根据你提供的项目内容量身定制的模板：
-
----
-
 # 🇨🇦 Reddit Immigration Topic Classifier
 
 This project analyzes Reddit discussions on Canadian immigration to detect topic shifts before and after a major policy reform on **May 31, 2023**.
