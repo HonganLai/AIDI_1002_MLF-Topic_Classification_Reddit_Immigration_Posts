@@ -1,0 +1,15 @@
+# Ignore all data files
+/data/
+*.csv
+*.xlsx
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore virtual environments
+.venv/
+env/
